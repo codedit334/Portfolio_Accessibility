@@ -117,7 +117,7 @@ nav img {
   text-decoration: none;
   position: static;
   align-self: flex-start;
-  animation: 5s slideInLeft;
+  animation: 6s slideInLeft;
 }
 
 .socials {
