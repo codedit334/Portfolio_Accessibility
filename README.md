@@ -37,7 +37,9 @@
 Portfolio_Microverse is a perfect practice project for flexbox
 
 ## 🛠 Built With <a name="built-with"></a>
+
 HTML, CSS, NodeJS
+
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
@@ -70,13 +72,13 @@ HTML, CSS, NodeJS
 
 -Mobile first design: it's addapted to mobile screens.
 
+-Added the Web Accessibility Features
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
--www.codedit334.github.io
+## 🚀 Live Demo <a name="live-demo">https://codedit334.github.io/Portfolio_Accessibility/</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,12 +87,12 @@ HTML, CSS, NodeJS
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
-  
-  
+
 ### Prerequisites
 
 In order to run this project you need:
-  Open terminal on the same folder of the project and run:
+Open terminal on the same folder of the project and run:
+
 ```sh
  npm install
 ```
@@ -98,13 +100,16 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder:
+
 ```sh
   cd my-folder
   git clone git@github.com/codedit334/Hello_Microverse.git
 ```
+
 ### Install
 
 Install this project with:
+
 ```sh
   cd Hello_Microverse
   npm install
@@ -114,16 +119,18 @@ Install this project with:
 
 To run the project, open index.html
 
-
 ### Run tests
 
 To run tests, run the following command:
 
 To check for html errors run:
+
 ```sh
   npx hint .
 ```
+
 To check for css errors run:
+
 ```sh
   npx stylelint "**/*.{css,scss}"
 ```
@@ -144,7 +151,6 @@ Deployed using github pages.
 - Twitter: [@oussedit](https://twitter.com/oussedit)
 - LinkedIn: [Oussama Elabdioui](https://www.linkedin.com/in/oussama-elabdioui-4677a41b6/)
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -153,7 +159,6 @@ Deployed using github pages.
 
 -Centering the title
 -Making the title responsive
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -189,7 +194,7 @@ I would like to thank Microverse for offering me this opportunity to learn, and 
 
 -Why use linters?
 
-  - The use of linters helps to diagnose and fix technical issues, also linters can help teams achieve a more readable and consistent style, through the enforcement of its rules.
+- The use of linters helps to diagnose and fix technical issues, also linters can help teams achieve a more readable and consistent style, through the enforcement of its rules.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
